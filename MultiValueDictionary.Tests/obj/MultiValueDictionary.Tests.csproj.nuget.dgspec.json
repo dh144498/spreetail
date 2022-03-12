@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\MultiValueDictionary.Tests\\MultiValueDictionary.Tests.csproj": {}
+    "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\spreetail\\MultiValueDictionary.Tests\\MultiValueDictionary.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\MultiValueDictionary.Tests\\MultiValueDictionary.Tests.csproj": {
+    "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\spreetail\\MultiValueDictionary.Tests\\MultiValueDictionary.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\MultiValueDictionary.Tests\\MultiValueDictionary.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\spreetail\\MultiValueDictionary.Tests\\MultiValueDictionary.Tests.csproj",
         "projectName": "MultiValueDictionary.Tests",
-        "projectPath": "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\MultiValueDictionary.Tests\\MultiValueDictionary.Tests.csproj",
+        "projectPath": "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\spreetail\\MultiValueDictionary.Tests\\MultiValueDictionary.Tests.csproj",
         "packagesPath": "C:\\Users\\dong.han\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\MultiValueDictionary.Tests\\obj\\",
+        "outputPath": "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\spreetail\\MultiValueDictionary.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,8 +35,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\worksample-csharp-main\\MultiValueDictionary.csproj": {
-                "projectPath": "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\worksample-csharp-main\\MultiValueDictionary.csproj"
+              "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\spreetail\\worksample-csharp-main\\MultiValueDictionary.csproj": {
+                "projectPath": "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\spreetail\\worksample-csharp-main\\MultiValueDictionary.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\worksample-csharp-main\\MultiValueDictionary.csproj": {
+    "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\spreetail\\worksample-csharp-main\\MultiValueDictionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\worksample-csharp-main\\MultiValueDictionary.csproj",
+        "projectUniqueName": "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\spreetail\\worksample-csharp-main\\MultiValueDictionary.csproj",
         "projectName": "MultiValueDictionary",
-        "projectPath": "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\worksample-csharp-main\\MultiValueDictionary.csproj",
+        "projectPath": "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\spreetail\\worksample-csharp-main\\MultiValueDictionary.csproj",
         "packagesPath": "C:\\Users\\dong.han\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\worksample-csharp-main\\obj\\",
+        "outputPath": "C:\\Users\\dong.han\\Downloads\\worksample-csharp-main\\spreetail\\worksample-csharp-main\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
