@@ -5,7 +5,7 @@ namespace MultiValueDictionary
 {
     public class Dictionary
     {
-        private IDictionaryService _dict;
+        private readonly IDictionaryService _dict;
         public Dictionary(IDictionaryService dict)
         {
             _dict = dict;
